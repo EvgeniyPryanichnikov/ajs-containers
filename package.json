@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marinaustinovich/ajs-homeworks-containers.git"
+    "url": "git+https://github.com/EvgeniyPryanichnikov/ajs-containers.git"
   },
-  "author": "Marina",
+  "author": "Evgeniy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marinaustinovich/ajs-homeworks-containers/issues"
+    "url": "https://github.com/EvgeniyPryanichnikov/ajs-containers/issues"
   },
-  "homepage": "https://github.com/marinaustinovich/ajs-homeworks-containers#readme",
+  "homepage": "https://github.com/EvgeniyPryanichnikov/ajs-containers#readme",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.0",
